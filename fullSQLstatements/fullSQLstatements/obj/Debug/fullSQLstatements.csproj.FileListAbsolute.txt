@@ -1,0 +1,9 @@
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\bin\Debug\fullSQLstatements.exe.config
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\bin\Debug\fullSQLstatements.exe
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\bin\Debug\fullSQLstatements.pdb
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\obj\Debug\fullSQLstatements.csprojResolveAssemblyReference.cache
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\obj\Debug\fullSQLstatements.Form1.resources
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\obj\Debug\fullSQLstatements.Properties.Resources.resources
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\obj\Debug\fullSQLstatements.csproj.GenerateResource.Cache
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\obj\Debug\fullSQLstatements.exe
+c:\users\avish\onedrive\documents\visual studio 2015\Projects\fullSQLstatements\fullSQLstatements\obj\Debug\fullSQLstatements.pdb
